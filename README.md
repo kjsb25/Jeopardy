@@ -1,6 +1,9 @@
-# React Playground
+# Jeopardy!
 
-Keenan's testing ground for react concepts
+Webapp to simulate a game of Jeopardy
+
+Utilizes [JService](https://jservice.io/) to generate questions
+
 
 ### `npm start`
 
